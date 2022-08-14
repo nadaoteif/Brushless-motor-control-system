@@ -2,7 +2,7 @@
 # Design Brushless motor control system 
 ## Overview:
 
-These tasks is completed by [Nada Oteif](https://sa.linkedin.com/in/nadaoteif) as a part of [Smart Method](https://s-m.com.sa/en/index.html) for Summer training in 2022 at at Electronics and Power track.
+These tasks is completed by [Nada Oteif](https://sa.linkedin.com/in/nadaoteif) as a part of [Smart Method](https://s-m.com.sa/en/index.html) for Summer training in 2022 at Electronics and Power track.
 
 ## Description:
 
