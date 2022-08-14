@@ -8,7 +8,10 @@ These tasks is completed by [Nada Oteif](https://sa.linkedin.com/in/nadaoteif) a
 
 ### Brushless Motor simulation
 
-![Brushless](Brushless.mp4)
+
+
+https://user-images.githubusercontent.com/85653190/184539759-e5b9fa27-7419-47da-94f0-cb098b31a7f5.mp4
+
 
 [Click here to view simulation in Tinkercad](https://www.tinkercad.com/things/k81S1oNHR6e)
 
